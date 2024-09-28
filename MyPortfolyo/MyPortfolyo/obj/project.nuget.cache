@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PsvZD8LVuV4=",
+  "dgSpecHash": "LCgP+WBynlM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\furka\\source\\repos\\MyPortfolyo\\MyPortfolyo\\MyPortfolyo.csproj",
+  "projectFilePath": "C:\\Users\\furka\\Source\\Repos\\PortfolyoWebSitem\\MyPortfolyo\\MyPortfolyo\\MyPortfolyo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\furka\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\furka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

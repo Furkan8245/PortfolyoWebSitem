@@ -10327,11 +10327,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furka\\source\\repos\\MyPortfolyo\\MyPortfolyo\\MyPortfolyo.csproj",
+      "projectUniqueName": "C:\\Users\\furka\\Source\\Repos\\PortfolyoWebSitem\\MyPortfolyo\\MyPortfolyo\\MyPortfolyo.csproj",
       "projectName": "MyPortfolyo",
-      "projectPath": "C:\\Users\\furka\\source\\repos\\MyPortfolyo\\MyPortfolyo\\MyPortfolyo.csproj",
+      "projectPath": "C:\\Users\\furka\\Source\\Repos\\PortfolyoWebSitem\\MyPortfolyo\\MyPortfolyo\\MyPortfolyo.csproj",
       "packagesPath": "C:\\Users\\furka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furka\\source\\repos\\MyPortfolyo\\MyPortfolyo\\obj\\",
+      "outputPath": "C:\\Users\\furka\\Source\\Repos\\PortfolyoWebSitem\\MyPortfolyo\\MyPortfolyo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
